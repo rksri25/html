@@ -1,0 +1,22 @@
+Question 10 :-  What are global attributes? List any 5 global attributes?
+Answer 10 :-Global attributes are attributes that can be used with any HTML element. They are not specific to any particular element. Here are five examples of global attributes:
+
+accesskey - This attribute specifies a keyboard shortcut that can be used to access the element.
+class - This attribute specifies a class name for the element. Classes can be used to style the element with CSS.
+contenteditable - This attribute specifies whether the element is editable by the user.
+data-* - This attribute specifies custom data for the element. This data can be used by JavaScript.
+title - This attribute specifies a tooltip for the element. Tooltips are displayed when the user hovers over the element.
+Here is an example of how global attributes can be used:
+
+Syntax 
+<div class="my-class" accesskey="A" data-id="1234" title="This is a div">
+  This is a div element.
+</div>
+
+
+In this example, the div element has the following global attributes:
+
+class - The class name is my-class.
+accesskey - The keyboard shortcut is A.
+data-id - The custom data is 1234.
+title - The tooltip is This is a div.

@@ -1,0 +1,12 @@
+5. What is emmet ? List some of the advantages emmet offers ?
+Answer :- Emmet is text editor plugin that allows you to write HTML , CCS and Javascript code more quickly and efficiently . Emmet uses a syntax that is based on HTML , CSS abbreviations, which allows you to write complex code with fewer keystrokes . 
+
+i) Speed: Emmet can save you a lot of time when writing code. For example, you can type div and then press Tab to create a complete div element with its opening and closing tags, as well as default attributes such as id and class.
+
+ii) Accuracy: Emmet can help you to write more accurate code. By using Emmet's abbreviations, you are less likely to make mistakes such as misspelling tag names or attributes.
+
+iii) Consistency: Emmet can help you to write more consistent code. By using Emmet's abbreviations, you can ensure that your code follows the same conventions, which can make it easier to read and maintain.
+
+iv) Reusability: Emmet can help you to reuse code. Emmet's abbreviations can be used to create snippets of code that you can then use again and again. This can save you a lot of time when writing similar code for different projects.
+
+Emmet is a powerful tool that can help you to write HTML, CSS, and JavaScript code more quickly, accurately, consistently, and reusable. If you are a web developer, I highly recommend that you try Emmet.

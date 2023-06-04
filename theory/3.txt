@@ -1,0 +1,13 @@
+3. Write a short note on tags, elements, and attributes along ith relevant examples ?
+Answer :- In HTML , the tags , element and attributes are present for creating the web pages . 
+
+1) Tags :- Tags are basic building block of HTML. Used to define the structure of web page .Used to identify and group different part of web page . Tag come in pair , opening tag and closing tag .
+i) Opening Tag:- tell the brower that follow the text is part of element .
+ii) Closing Tag:- Tell the brower that the element is finished .
+Example :- <p> The tags describe </p>
+
+2) Element :- Actual content of web pages .They can text , image , link and other type of content .Element are defined  by their tags .
+Example :-<p> tag defines a paragraph element .
+
+3) Attributes :- Additional pieces of information that can be added to elements . They provide more detail about the element , such as its style , behavior , or content .
+Example :- <p class="editor-note"> My first code </p> 

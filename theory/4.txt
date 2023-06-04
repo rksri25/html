@@ -1,0 +1,11 @@
+4. List out any 3 tags be learned in this module and give a brief explanation about the tags ?
+Answer :- 
+i) <h1> :- Is used to create a heading . Heading tags range from <h1> to <h6> 
+Example :- <h1> :- Largest Heading
+	   <h6> :- Smallest Heading
+
+ii) <p> :- Is used to create a paragraph .
+Example :- <p> Paragraph</p>
+
+iii) <nav> :- Is the process of creating links that allows users to move around a web pages or b/w web pages .
+Example :- <a href="https://www.google.com">Google</a>
